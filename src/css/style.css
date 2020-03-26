@@ -541,6 +541,9 @@ footer a:hover {
   .introducao{
     padding-top: 0px;
   }
+  a.nav-link {
+    margin-left: 15px;
+  }
   .introducao h1 {
     font-size: 40px;
   }
